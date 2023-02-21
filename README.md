@@ -2,7 +2,7 @@
 
 **TYPESCRIPT** my Love!!!
 
-**Stack:** Angular, Nestjs, Postgresql
+**Stack:** Angular, Nestjs, Postgresql, Nodejs
 
 **Deploy:** Docker, Docker Compose
 
