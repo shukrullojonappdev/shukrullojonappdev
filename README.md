@@ -1,8 +1,6 @@
 ## Raxmatulloyev Shukurllojon
 
-$$
-**TYPESCRIPT** my Love!!!
-$$
+<p style="text-align='center'">**TYPESCRIPT** my Love!!!</p>
 
 **Stack:** Angular, Nestjs, Postgresql
 **Deploy:** Docker, Docker Compose
