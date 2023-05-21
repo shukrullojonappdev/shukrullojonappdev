@@ -1,10 +1,8 @@
 ## Raxmatulloyev Shukurllojon
 
-**TYPESCRIPT** my Love!!!
+**Stack:** Angular, Nestjs, Postgresql, Firebase, Nodejs
 
-**Stack:** Angular, Nestjs, Postgresql, Nodejs
-
-**Deploy:** Docker, Docker Compose
+**Deploy:** Docker, Docker Compose, Firebase deploy
 
 **Languages:**
   - Uzbek (Native)
