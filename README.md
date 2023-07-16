@@ -1,6 +1,6 @@
 ## Raxmatulloyev Shukurllojon
 
-**Stack:** Angular, Nestjs, Postgresql, Firebase, Nodejs
+**Stack:** Angular, Vuejs, Nestjs, Postgresql, Firebase, Nodejs
 
 **Deploy:** Docker, Docker Compose, Firebase deploy
 
