@@ -1,8 +1,14 @@
 ## Raxmatulloyev Shukurllojon
 
-**Stack:** Angular, Vuejs, Nestjs, Postgresql, Firebase, Nodejs
+**Basics:** HTML, SCSS, JS
 
-**Deploy:** Docker, Docker Compose, Firebase deploy
+**Ecosystem:** Nodejs
+
+**Frameworks:** Vue, Angular, Nest
+
+**State managers:** Pinia, NgRx
+
+**Tools:** Vite, Webpack, VSCode
 
 **Languages:**
   - Uzbek (Native)
